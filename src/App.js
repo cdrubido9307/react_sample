@@ -6,7 +6,7 @@ import Example from  './example';
 
 function App() {
 
-  const title  = "Main App"
+  const title  = "Code Stories"
 
   return (
     <div className="App">
@@ -21,7 +21,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Example title={title} />>
+          <Example title={title} />
         </a>
       </header>
     </div>
