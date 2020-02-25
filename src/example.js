@@ -7,8 +7,8 @@ class Example extends Component {
 
 
         this.state = {
-            name: 'Title',
-            description: "LLALALA"
+            name: 'Code Stories',
+            description: "Welcome"
         }
 
     }
