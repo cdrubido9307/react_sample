@@ -6,7 +6,7 @@ import Example from  './example';
 
 function App() {
 
-  const title  = "Code Stories"
+  const title  = "Code"
 
   return (
     <div className="App">
